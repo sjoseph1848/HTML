@@ -1,0 +1,33 @@
+body {
+  line-height: 1.5;
+  color: white;
+
+  font-family: 'Lato', sans-serif;
+
+  background: url('../images/daft-sam.gif');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin: 40px;
+  background: rgba(0,0,0,0.5);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: 'Rokkit',serif;
+  font-size: 80px;
+  margin-bottom: -50px;
+}
+h2 {
+  font-size: 30px;
+}
+a {
+   color: #BFE35B;
+   text-decoration: none;
+}
